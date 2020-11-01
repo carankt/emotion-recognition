@@ -1,0 +1,4 @@
+.idea/
+code/*.pyc
+code/*.ipynb*
+./dataset
